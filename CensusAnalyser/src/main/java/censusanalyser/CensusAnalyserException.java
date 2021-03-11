@@ -1,6 +1,5 @@
 package censusanalyser;
 
-
 public class CensusAnalyserException extends Exception {
 
     enum ExceptionType {
